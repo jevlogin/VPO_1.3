@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VPO_1.3": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
